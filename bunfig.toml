@@ -1,0 +1,9 @@
+telemetry = false
+jsx = "react-jsx"
+jsxImportSource = "react"
+
+[loader]
+".replit" = "toml"
+".ts" = "ts"
+".tsx" = "tsx"
+".sqlite" = "sqlite"
